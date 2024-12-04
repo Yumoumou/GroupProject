@@ -4,7 +4,6 @@ fastapi
 asyncio
 pymongo
 pydantic
-typing
 passlib
 starlette
 datetime
