@@ -1,0 +1,13 @@
+uvicorn
+gunicorn
+fastapi
+asyncio
+pymongo
+pydantic
+typing
+passlib
+starlette
+datetime
+motor
+bson
+PyJWT
